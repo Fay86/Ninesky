@@ -60,7 +60,7 @@ namespace Ninesky.Models
         /// <summary>
         /// 上次登陆IP
         /// </summary>
-        public DateTime LoginIP { get; set; }
+        public string LoginIP { get; set; }
 
     }
 }
